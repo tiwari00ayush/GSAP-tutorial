@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  background-color: #16181c;
+  width: 100%;
+  min-height: 100vh;
+  color: rgb(198, 193, 193);
+}
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.main #heading {
+  display: flex;
+  align-items: center;
+}
+.main #heading {
+  font-size: 100px;
+  font-weight: bold;
+}
